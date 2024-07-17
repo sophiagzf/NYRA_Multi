@@ -9,5 +9,5 @@
 
 1. Create an account on [Shinyapps.io](https://www.shinyapps.io/).
 2. After running the Shiny App in RStudio, click the 'Publish' button in the top right corner.
-3. Follow the instructions to link your Shinyapps.io account to RStudio.
+3. Follow the instructions from the popup in RStudio to link your Shinyapps.io account to RStudio.
 4. Once linked, your Shiny App should be published successfully.
